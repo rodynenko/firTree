@@ -1,0 +1,11 @@
+[
+	{ "year": 2008, "type": "комбінована", "president": "Ющенко", "height":35},
+	{ "year": 2009, "type": "комбінована", "president": "Ющенко", "height":35},
+	{ "year": 2010, "type": "штучна", "president": "Янукович", "height":35},
+	{ "year": 2011, "type": "штучна", "president": "Янукович", "height":40},
+	{ "year": 2012, "type": "штучна", "president": "Янукович", "height":35},
+	{ "year": 2013, "type": "штучна", "president": "Янукович", "height":0},
+	{ "year": 2014, "type": "натуральна", "president": "Порошенко", "height":24},
+	{ "year": 2015, "type": "натуральна", "president": "Порошенко", "height":25},
+	{ "year": 2016, "type": "натуральна", "president": "Порошенко", "height":26}
+]

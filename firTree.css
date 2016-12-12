@@ -1,0 +1,72 @@
+/*
+	part of firTree project;
+	created by Taras Rodynenko (fb.com/taras.rodynenko)
+*/
+*{
+	box-sizing: border-box;
+	margin: 0;
+	font-family: 'Lato', 'Open Sans' ,sans-serif;
+}
+
+h2,h4,h5{
+	padding: 10px 0;
+	color: #fafafa;
+}
+
+
+#wrapper{
+	width: 600px;
+	position: relative;
+	background-color: SEAGREEN;
+	text-align: center;
+	margin: 0 auto;
+}
+
+a{
+	color: #f1f1f1;
+}
+
+.fir-tree{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	height: 4em;
+}
+
+#viz{
+	width: 600px;
+	height: 480px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+text.axisx-label{
+	font-family: 'Lato', sans-serif;
+	font-weight: lighter;
+	fill: #666;
+}
+.firTree-height-point_label{
+	fill: #666;
+	font-family: 'Lato', sans-serif;
+	font-weight: lighter;
+	font-size: 12px;
+}
+
+.firTree-height-point_line{
+	stroke: #ddd;
+	stroke-width: 2;
+}
+
+.tooltip{
+	display: block;
+	position: absolute;
+	padding: 5px;
+	width: 300px;
+	border-radius: 5px;
+	background-color: #999;
+	z-index: 10;
+}
+
+.tooltip__hide{
+	display: none;
+}
